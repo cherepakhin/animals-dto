@@ -6,7 +6,7 @@
 
     <groupId>ru.perm.v</groupId>
     <artifactId>animals-dto</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <description>Библиотека dto для работы со смежными системами</description>
     <packaging>jar</packaging>
 
